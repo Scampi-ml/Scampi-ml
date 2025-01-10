@@ -4,7 +4,6 @@
 ## 🔗 Links
 
 - Personal Site [@scampi.me](https://scampi.me/)
-- Lurkarts [Project Lurkarts](https://lurkarts.scampi.me/)
 
 
 
